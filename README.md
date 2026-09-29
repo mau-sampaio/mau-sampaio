@@ -26,7 +26,7 @@ Crio e mantenho sites institucionais e personalizados: do layout à publicação
 | **JGMovies** | Site informativo sobre filmes, layout responsivo. | HTML, CSS | [Demo](https://checkpoint2-front.vercel.app) · [Código](https://github.com/mau-sampaio/checkpoint2-front) |
 | **Jokenpô** | Pedra, papel ou tesoura contra o computador. | JavaScript | [Demo](https://jokenpo-smoky.vercel.app) · [Código](https://github.com/mau-sampaio/Jokenpo) |
 
-## 📫 Contato
+<!--## 📫 Contato -->
 
 <!-- Troque os links abaixo pelos seus -->
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
